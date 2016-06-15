@@ -1,4 +1,4 @@
-# WebDriver-and-TestNG-Revision
+# Selenium WebDriver and TestNG application for Teammates
 This repository contains some new features of webdriver and Testng 
 that i learned recently while preparing for GSOC 2015. I belief at this particular 
 point in time all test for web applications should be automated using renown and profesional tools 
